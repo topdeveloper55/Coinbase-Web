@@ -3,8 +3,8 @@
 
 <div align="center">
   <sub>The coinbase project. Built with ❤︎ by
-    <a href="https://github.com/joaqperalta">Rafael Goulart</a> and
-    <a href="https://github.com/joaqperalta/Coinbase-Web/graphs/contributors">
+    <a href="https://github.com/topdeveloper55">Rafael Goulart</a> and
+    <a href="https://github.com/topdeveloper55/Coinbase-Web/graphs/contributors">
       contributors
     </a>
   </sub>
@@ -87,5 +87,3 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 
 Released in 2020.
 This project is under the [MIT license](./LICENSE).
-
-Made with love by [JoaqPeralta](https://github.com/joaqperalta) 🚀
